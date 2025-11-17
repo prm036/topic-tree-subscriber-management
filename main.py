@@ -12,8 +12,8 @@ Features:
 5. Remove/unsubscribe subscriber
 6. Support multi-topic subscription
 
-Author: Your Name
-Date: YYYY-MM-DD
+Author: Praneeth
+Date: 2025-11-17
 """
 
 # -----------------------------
